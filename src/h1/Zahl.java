@@ -2,7 +2,7 @@ package h1;
 
 public class Zahl {
 	
-	public boolean even = true;
+	public boolean even = false;
     public boolean small = false;
     public boolean positive = true;
     public int num = 12;
